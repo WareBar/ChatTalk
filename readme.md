@@ -55,7 +55,6 @@ ChatTalk/
 ├── backend/                   # Django backend
 │   ├── manage.py
 │   ├── requirements.txt
-│   ├── chat/                  # Core chat app (models, serializers, views)
 │   ├── User/                  # User management and authentication
 │   ├── Message/               # Message handling and notifications
 │   └── settings.py            # Django settings and Channels config
